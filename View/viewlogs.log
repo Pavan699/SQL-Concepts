@@ -1,0 +1,24 @@
+2021-11-28 21:12:45,021:ERROR:create_view:1050 (42S01): Table 'vw_names' already exists
+2021-11-28 21:12:45,022:INFO:display_view:view created for display
+2021-11-28 21:16:15,733:ERROR:create_view:1050 (42S01): Table 'vw_names' already exists
+2021-11-28 21:16:15,734:INFO:display_view:view created for display
+2021-11-28 21:17:01,565:ERROR:create_view:1050 (42S01): Table 'vw_names' already exists
+2021-11-28 21:17:01,565:INFO:display_view:view created for display
+2021-11-28 21:18:24,138:ERROR:create_view:1050 (42S01): Table 'vw_names' already exists
+2021-11-28 21:18:24,140:INFO:display_view:view created for display
+2021-11-28 21:19:24,308:ERROR:create_view:1050 (42S01): Table 'vw_names' already exists
+2021-11-28 21:19:24,309:INFO:display_view:view created for display
+2021-11-28 21:19:24,309:ERROR:alter_view:'Views' object has no attribute 'db_cursor'
+2021-11-28 21:19:38,765:ERROR:create_view:1050 (42S01): Table 'vw_names' already exists
+2021-11-28 21:19:38,766:INFO:display_view:view created for display
+2021-11-28 21:20:27,501:ERROR:create_view:1050 (42S01): Table 'vw_names' already exists
+2021-11-28 21:20:27,502:INFO:display_view:view created for display
+2021-11-28 21:20:27,513:INFO:alter_view:view created for alter display
+2021-11-28 21:22:20,449:ERROR:create_view:1050 (42S01): Table 'vw_names' already exists
+2021-11-28 21:22:20,450:INFO:display_view:view created for display
+2021-11-28 21:22:20,504:INFO:alter_view:view created for alter display
+2021-11-28 21:22:20,511:INFO:drop_view:view dropped
+2021-11-28 21:24:06,356:INFO:create_view:view created
+2021-11-28 21:24:06,357:INFO:display_view:view created for display
+2021-11-28 21:24:06,365:INFO:alter_view:view created for alter display
+2021-11-28 21:24:06,374:INFO:drop_view:view dropped
