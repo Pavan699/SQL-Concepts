@@ -1,0 +1,13 @@
+2021-11-28 22:42:35,339:INFO:create_procedure:procedure created
+2021-11-28 22:52:37,588:ERROR:create_procedure:1304 (42000): PROCEDURE get_usernames already exists
+2021-11-28 22:53:27,757:INFO:create_procedure:procedure created
+2021-11-28 22:53:27,758:ERROR:procedure_in:2014 (HY000): Commands out of sync; you can't run this command now
+2021-11-28 22:58:26,353:INFO:create_procedure:procedure created
+2021-11-28 22:58:26,353:ERROR:procedure_in:2014 (HY000): Commands out of sync; you can't run this command now
+2021-11-28 23:00:32,683:ERROR:create_procedure:1304 (42000): PROCEDURE get_usernames already exists
+2021-11-28 23:00:32,743:INFO:procedure_in:procedure created for id
+2021-11-28 23:03:16,875:INFO:create_procedure:procedure created
+2021-11-28 23:03:16,875:ERROR:procedure_in:2014 (HY000): Commands out of sync; you can't run this command now
+2021-11-28 23:04:10,763:INFO:procedure_in:procedure created for id
+2021-11-28 23:14:50,451:INFO:procedure_out:procedure get highestid
+2021-11-28 23:15:36,633:INFO:procedure_out:procedure get highestid
