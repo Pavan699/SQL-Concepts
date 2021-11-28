@@ -1,0 +1,20 @@
+
+2021-11-27 19:36:01,919:INFO:create_database:database created
+2021-11-28 13:11:46,584:ERROR:create_database:1007 (HY000): Can't create database 'user_info'; database exists
+2021-11-28 13:11:46,955:INFO:create_table:table created
+2021-11-28 13:16:18,815:INFO:insert_into:data inserted
+2021-11-28 13:18:57,941:ERROR:display_table:1146 (42S02): Table 'Queries.order_details' doesn't exist
+2021-11-28 13:19:22,861:INFO:display_table:data dispayed
+2021-11-28 13:24:04,080:INFO:alter_table:column added
+2021-11-28 13:30:10,698:INFO:update_details:table details updated
+2021-11-28 13:55:44,365:INFO:display_table:data dispayed
+2021-11-28 13:55:44,366:INFO:delete_details:data deleted
+2021-11-28 14:23:40,918:INFO:orderby_details:Orderby clause
+2021-11-28 14:24:17,397:INFO:orderby_details:Orderby clause
+2021-11-28 15:23:43,196:INFO:group_by:Use of groupby clause
+2021-11-28 15:24:37,923:ERROR:group_by:1055 (42000): Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'order_info.order_details.Price' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+2021-11-28 15:24:51,737:INFO:group_by:Use of groupby clause
+2021-11-28 15:38:32,050:INFO:limit_details:Use of limit clause
+2021-11-28 15:44:27,857:INFO:aggregate_functions:Use of Count,Sum,Max,Min and Avg
+2021-11-28 15:44:51,264:INFO:aggregate_functions:Use of Count,Sum,Max,Min and Avg
+2021-11-28 15:45:09,664:INFO:aggregate_functions:Use of Count,Sum,Max,Min and Avg
