@@ -1,0 +1,20 @@
+2021-11-29 20:32:16,635:INFO:partition_by:windows function created
+2021-11-29 20:45:40,673:INFO:partition_by:windows function created
+2021-11-29 20:47:45,517:ERROR:partition_by:1140 (42000): In aggregated query without GROUP BY, expression #1 of SELECT list contains nonaggregated column 'foodcustomer.d.id'; this is incompatible with sql_mode=only_full_group_by
+2021-11-29 20:48:24,059:INFO:partition_by:windows function created
+2021-11-29 20:49:33,065:INFO:partition_by:windows function created
+2021-11-29 20:52:19,882:INFO:partition_by:windows function created
+2021-11-29 20:57:50,133:INFO:normal_fun:windows function for max id
+2021-11-29 20:59:33,081:INFO:normal_fun:windows function for max id
+2021-11-29 21:01:26,843:INFO:normal_fun:windows function for max id
+2021-11-29 21:01:26,844:INFO:partition_by:windows function for row number
+2021-11-29 21:13:46,097:INFO:normal_fun:windows function for max id
+2021-11-29 21:13:46,099:INFO:partition_by:windows function for row number
+2021-11-29 21:13:46,101:INFO:rank_by:windows function for ranking
+2021-11-29 21:32:42,622:INFO:analytical_function:windows function for ranking
+2021-11-29 21:33:30,163:INFO:analytical_function:windows function for ranking
+2021-11-29 21:34:12,507:INFO:analytical_function:windows function for ranking
+2021-11-29 21:34:28,019:INFO:normal_fun:windows function for max id
+2021-11-29 21:34:28,021:INFO:partition_by:windows function for row number
+2021-11-29 21:34:28,025:INFO:rank_by:windows function for ranking
+2021-11-29 21:34:28,028:INFO:analytical_function:windows function for ranking
