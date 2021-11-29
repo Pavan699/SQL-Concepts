@@ -1,0 +1,24 @@
+2021-11-29 16:17:34,021:INFO:create_index:index created for name
+2021-11-29 16:19:22,552:ERROR:create_index:1061 (42000): Duplicate key name 'idx_namedetails'
+2021-11-29 16:19:22,648:INFO:show_index:index diplayed for name
+2021-11-29 16:21:14,821:ERROR:create_index:1061 (42000): Duplicate key name 'idx_namedetails'
+2021-11-29 16:21:14,823:INFO:show_index:index diplayed for name
+2021-11-29 16:21:36,355:ERROR:create_index:1061 (42000): Duplicate key name 'idx_namedetails'
+2021-11-29 16:21:36,356:ERROR:show_index:1146 (42S02): Table 'foodcustomer.idx_namedetails' doesn't exist
+2021-11-29 16:24:13,614:ERROR:create_index:1061 (42000): Duplicate key name 'idx_namedetails'
+2021-11-29 16:24:13,617:INFO:show_index:index diplayed for name
+2021-11-29 16:24:13,617:INFO:find_name:index diplayed for name
+2021-11-29 16:25:34,104:ERROR:create_index:1061 (42000): Duplicate key name 'idx_namedetails'
+2021-11-29 16:25:34,107:INFO:show_index:index diplayed for name
+2021-11-29 16:25:34,107:INFO:find_name:name displayed
+2021-11-29 16:26:15,352:ERROR:create_index:1061 (42000): Duplicate key name 'idx_namedetails'
+2021-11-29 16:26:15,354:INFO:show_index:index diplayed for name
+2021-11-29 16:26:15,354:INFO:find_name:name displayed
+2021-11-29 16:28:58,045:ERROR:create_index:1061 (42000): Duplicate key name 'idx_namedetails'
+2021-11-29 16:28:58,047:INFO:show_index:index diplayed for name
+2021-11-29 16:28:58,048:INFO:find_name:name displayed
+2021-11-29 16:28:58,331:INFO:drop_index:Index dropped
+2021-11-29 16:29:08,139:INFO:create_index:index created for name
+2021-11-29 16:29:08,141:INFO:show_index:index diplayed for name
+2021-11-29 16:29:08,142:INFO:find_name:name displayed
+2021-11-29 16:29:08,199:INFO:drop_index:Index dropped
